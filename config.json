@@ -42,19 +42,19 @@
 	},
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
-		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
-			"apiKey": ""
-		},
-		"gRecaptcha": {
-			"siteKey": "",
-			"secretKey": ""
-		}
-	},
-	"dashBoard": {
+    "gmailAccount": {
+      "email": "mdaminshekh01@gmail.com",
+      "clientId": "928655412950-vsv1ha3bv126g1ok1k7dd45opbrjllui.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//04vdeAN49PidBCgYIARAAGAQSNwF-L9IraK4B4n6KherTkG0fHCpwNUBng01EVfXckuxxxnfoVwfHdcznPsdkNcjp9kwsI2xAC28",
+      "apiKey": ""
+    },
+    "gRecaptcha": {
+      "siteKey": "6Lf0DPYoAAAAAJKDRNPuGm9tswKI0J-XC8i9t1AY",
+      "secretKey": "6Lf0DPYoAAAAACbvNH9MBbLVmXqhkVkYDuyVUzha"
+    }
+  },
+        "dashBoard": {
 		"enable": true,
 		"expireVerifyCode": 300000,
 		"port": 3001
